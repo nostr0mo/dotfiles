@@ -1,3 +1,6 @@
+! This file is used for urxvt
+! It is based on colors used for the Arc Dark theme
+
 ! Set background transparency.  I like this.
 URxvt*depth:	32
 URxvt*background: rgba:0000/0000/0000/cc00

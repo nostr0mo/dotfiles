@@ -11,9 +11,9 @@ URxvt.internalBorder: 12
 URxvt.font: xft:ProFontWindows:size=9
 
 ! ALL THE COLORS
-*.cursorcolor:  #b3bdcb
-*.background: 	#404552
-*.foreground: 	#b3bdcb
+*.cursorcolor:  	#b3bdcb
+*.background: 		#404552
+*.foreground: 		#b3bdcb
 
 ! black + darkgrey
 *.color0:  		#404552

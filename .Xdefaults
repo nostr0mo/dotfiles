@@ -1,0 +1,48 @@
+! Set background transparency.  I like this.
+URxvt*depth:	32
+URxvt*background: rgba:0000/0000/0000/cc00
+
+! Some aesthetic changes
+URxvt.scrollBar: False
+URxvt.internalBorder: 12
+
+! My favourite font for terminals.  
+! Change to yours if you don't like it.
+URxvt.font: xft:ProFontWindows:size=9
+
+! ALL THE COLORS
+*.cursorcolor:  #b3bdcb
+*.background: 	#404552
+*.foreground: 	#b3bdcb
+
+! black + darkgrey
+*.color0:  		#404552
+*.color8:  		#2a303b
+
+! darkred + red
+*.color1:  		#cc575d
+*.color9:  		#a3464a
+k
+! darkgreen + green
+*.color2:  		#2679db
+*.color10: 		#75a9e8
+
+! darkyellow + yellow
+*.color3:  		#b3bdcb
+*.color11: 		#cad1db
+
+! darkblue + blue
+*.color4:  		#5294e2
+*.color12: 		#97bfee
+
+! darkmagenta + magenta
+*.color5:  		#404552
+*.color13: 		#686d79
+
+! darkcyan + cyan
+*.color6:  		#b3bdcb
+*.color14: 		#383c4a
+
+! lightgrey + white
+*.color7:  		#e1e5ea
+*.color15: 		#ffffff
